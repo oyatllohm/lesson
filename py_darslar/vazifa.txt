@@ -1,0 +1,12 @@
+N#  NOMI     NARXI    KATEGORIYASI    SANASI 
+10   nokiax9   600    1    Sun Mar  6 12:19:50 2022 
+1   iphone x   500    1    Fri Mar  4 14:43:20 2022 
+5   ASUS PRO   425    2    Fri Mar  4 15:32:48 2022 
+3   DELL W10   400    2    Fri Mar  4 14:48:08 2022 
+4   BREND HP   360    2    Fri Mar  4 15:13:06 2022 
+2   samsung   300    1    Fri Mar  4 14:46:58 2022 
+11   nokiax4   250    1    Sun Mar  6 12:22:22 2022 
+6   nokia   150    1    Sun Mar  6 11:46:54 2022 
+7   nokia   150    1    Sun Mar  6 11:50:27 2022 
+8   nokia   150    1    Sun Mar  6 11:51:04 2022 
+9   nokia   150    1    Sun Mar  6 12:10:46 2022 

@@ -1,0 +1,48 @@
+N#  NOMI         NARXI    KATEGORIYASI    SANASI 
+1     iphone   500    1    Fri Mar  4 14:43:20 2022 
+2     usb   1    2    Fri Mar  4 14:46:58 2022 
+3     usb kabel   3    2    Fri Mar  4 14:48:08 2022 
+4     usd   47    2    Fri Mar  4 15:13:06 2022 
+5     usdQIMMATI   500    2    Fri Mar  4 15:32:48 2022 
+N#  NOMI         NARXI    KATEGORIYASI    SANASI 
+1     iphone   500    1    Fri Mar  4 14:43:20 2022 
+2     usb   1    2    Fri Mar  4 14:46:58 2022 
+3     usb kabel   3    2    Fri Mar  4 14:48:08 2022 
+4     usd   47    2    Fri Mar  4 15:13:06 2022 
+5     usdQIMMATI   500    2    Fri Mar  4 15:32:48 2022 
+N#  NOMI         NARXI    KATEGORIYASI    SANASI 
+1   iphone   500    1    Fri Mar  4 14:43:20 2022 
+2   usb   1    2    Fri Mar  4 14:46:58 2022 
+3   usb kabel   3    2    Fri Mar  4 14:48:08 2022 
+4   usd   47    2    Fri Mar  4 15:13:06 2022 
+5   usdQIMMATI   500    2    Fri Mar  4 15:32:48 2022 
+N#  NOMI         NARXI    KATEGORIYASI    SANASI 
+1   iphone   500    1    Fri Mar  4 14:43:20 2022 
+2   usb   1    2    Fri Mar  4 14:46:58 2022 
+3   usb kabel   3    2    Fri Mar  4 14:48:08 2022 
+4   usd   47    2    Fri Mar  4 15:13:06 2022 
+5   usdQIMMATI   500    2    Fri Mar  4 15:32:48 2022 
+N#  NOMI         NARXI    KATEGORIYASI    SANASI 
+1   iphone   500    1    Fri Mar  4 14:43:20 2022 
+2   usb   1    2    Fri Mar  4 14:46:58 2022 
+3   usb kabel   3    2    Fri Mar  4 14:48:08 2022 
+4   usd   47    2    Fri Mar  4 15:13:06 2022 
+5   usdQIMMATI   500    2    Fri Mar  4 15:32:48 2022 
+N#  NOMI         NARXI    KATEGORIYASI    SANASI 
+1   iphone   500    1    Fri Mar  4 14:43:20 2022 
+2   usb   1    2    Fri Mar  4 14:46:58 2022 
+3   usb kabel   3    2    Fri Mar  4 14:48:08 2022 
+4   usd   47    2    Fri Mar  4 15:13:06 2022 
+5   usdQIMMATI   500    2    Fri Mar  4 15:32:48 2022 
+N#  NOMI         NARXI    KATEGORIYASI    SANASI 
+1   iphone   500    1    Fri Mar  4 14:43:20 2022 
+2   usb   1    2    Fri Mar  4 14:46:58 2022 
+3   usb kabel   3    2    Fri Mar  4 14:48:08 2022 
+4   usd   47    2    Fri Mar  4 15:13:06 2022 
+5   usdQIMMATI   500    2    Fri Mar  4 15:32:48 2022 
+N#  NOMI         NARXI    KATEGORIYASI    SANASI 
+1   iphone   500    1    Fri Mar  4 14:43:20 2022 
+2   usb   1    2    Fri Mar  4 14:46:58 2022 
+3   usb kabel   3    2    Fri Mar  4 14:48:08 2022 
+4   usd   47    2    Fri Mar  4 15:13:06 2022 
+5   usdQIMMATI   500    2    Fri Mar  4 15:32:48 2022 
